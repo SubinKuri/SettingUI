@@ -22,7 +22,7 @@ struct rootSetting: View {
       case "Search":
           AccountView()
       case "iCloud":
-          CameraView()
+          CameraView1()
       case "AutoFill & Passwords":
           AutoFillView()
       case "Dictionary":

@@ -11,7 +11,9 @@ import SwiftUI
 struct Iphone_settingsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+//            Scrollview()
+            scrollphoto()
         }
     }
 }

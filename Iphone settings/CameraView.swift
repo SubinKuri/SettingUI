@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct CameraView: View {
+struct CameraView1: View {
     var body: some View {
         List{
            
@@ -26,5 +26,5 @@ struct CameraView: View {
 }
 
 #Preview {
-    CameraView()
+    CameraView1()
 }
